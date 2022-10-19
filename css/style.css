@@ -62,7 +62,7 @@ h1 {
 	font-weight: 800;
 	line-height: 80px;
 	letter-spacing: -0.08em;
-	color: #161a1b; 
+	color: #0ff2c9;
 }
 
 h2 {
@@ -71,7 +71,7 @@ h2 {
 	line-height: 1em;
 	letter-spacing: 0.2em;
 	text-transform: uppercase;
-	color: #161a1b;
+	color: #0ff2c9;
 }
 
 #countdown div span {
